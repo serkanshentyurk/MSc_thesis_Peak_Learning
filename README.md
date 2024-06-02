@@ -34,6 +34,10 @@ code
 
 Once the Jupyter Notebook server is running, open the desired notebook (find_map.ipynb or v1.ipynb) to explore the analysis and results.
 
+## Data Availability
+
+If you wish to access the data, please send an e-mail to Serkan Shentyurk serkanshentyurk@hotmail.com or Melanie Nijs melanie.nijs@kuleuven.be
+
 ## Licence 
 
 This project is licensed under the MIT License.
