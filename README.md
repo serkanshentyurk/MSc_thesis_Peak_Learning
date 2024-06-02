@@ -16,8 +16,8 @@ This project aims to find the artefacts of insulin that are created during the M
 To run the analysis, follow these steps:
 
 ```bash
-git clone https://github.com/serkanshentyurk/msc_thesis/
-cd msc_thesis
+git clone https://github.com/serkanshentyurk/MSc_thesis_Peak_Learning/
+cd MSc_thesis_Peak_Learning
 conda env create -f environment.yml
 conda activate thesis_final
 ```
