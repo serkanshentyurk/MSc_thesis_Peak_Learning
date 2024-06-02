@@ -4,12 +4,12 @@ This repository contains the code for the analysis presented in the MSc Thesis t
 
 ## Getting Started
 
-This project aims to find the artefacts of insulin that are created during the MSI technique and remove them. The notebooks included in this repository generate findings and figures for various chapters of the thesis.
+This project aims to find the insulin-related peaks that are created during the MSI technique and remove them. The notebooks included in this repository generate findings and figures for various chapters of the thesis.
 
 ## Notebooks
 
 - `find_map.ipynb`: Generates findings and figures for Chapter 3 of the thesis. It creates the map of the islets of Langerhans by applying edge detection algorithm and various clustering algorithms.
-- `v1.ipynb`: Generates findings and figures for Chapters 2, 4, and 6 of the thesis. It applies Pearson correlation analysis and then fits Gaussian Mixture Models. Finally, the output of the various methods are compared and several tests, including UMAP analysis and spatial distribution analysis to validate the artefacts are done.
+- `v1.ipynb`: Generates findings and figures for Chapters 2, 4, and 6 of the thesis. It applies Pearson correlation analysis and then fits Gaussian Mixture Models. Finally, the output of the various methods are compared and several tests, including UMAP analysis and spatial distribution analysis to validate the insulin-related peaks are done.
 
 ## Running the Analysis
 
