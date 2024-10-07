@@ -1,6 +1,6 @@
 # Peak Learning for Denoising Mass Spectrometry Imaging Data
 
-This repository contains the code for the analysis presented in the MSc Thesis titled 'Peak Learning for Denoising Mass Spectrometry Imaging Data' by Chris Butcher and Serkan Shentyurk.
+This repository contains the code for the analysis presented in the MSc Thesis titled [Peak Learning for Denoising Mass Spectrometry Imaging Data](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=alma9994891084001488&context=L&vid=32KUL_KUL:KULeuven&search_scope=All_Content&tab=all_content_tab&lang=en) by Chris Butcher and Serkan Shentyurk.
 
 ## Getting Started
 
